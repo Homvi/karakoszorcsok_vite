@@ -2,7 +2,7 @@ import logo from "../assets/karakocimer.svg";
 
 const Navbar = () => {
   return (
-    <div className="navbar z-10  fixed bg-blend-multiply bg-white/50">
+    <div className="navbar z-10  fixed bg-blend-multiply backdrop-blur-sm bg-white/50">
       <div className="flex-1">
         <a className="btn btn-ghost normal-case text-xl" href="/">
           <img src={logo} alt="Karakószörcsök" className="h-11" />
