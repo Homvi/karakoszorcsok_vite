@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 
 const New = ({ img, description, title, link, date }) => {
   return (
-    <div className="card lg:card-side bg-base-100 shadow-xl">
+    <div className="card lg:card-side lg:w-full bg-base-100 shadow-xl">
       <div className="container md:w-60">
         <figure>
           <img

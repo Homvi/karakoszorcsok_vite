@@ -49,6 +49,14 @@ const news = [
     link: "https://www.facebook.com/konyvtarkarakoszorcsok/posts/pfbid02bHTjeiTJ1VUMj3PeLSzmEPfCvrm9Pcz3S53BFixKXMxJSnwzJShR2cdmqNzMVcuul",
     date: "2023-04-05",
   },
+  {
+    title: "Pustol a hó, avagy Könnyű neked, Szarvas Józsi....",
+    img: "https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/337502674_797613031708503_4376540857940393773_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=8YW5mBlP9goAX86v0yX&_nc_ht=scontent-bcn1-1.xx&oh=00_AfCMSdKXbZJu6ikbs1i8Ib-Yg9t_OH99mUSfbA65F6l-EA&oe=64B2DD2C",
+    description:
+      "Szarvas József Kossuth- és Jászai Mari- díjas színművész Pustol a hó, avagy Könnyű neked, Szarvas Józsi.... című előadása. ",
+    link: "https://www.facebook.com/konyvtarkarakoszorcsok/posts/pfbid02vTL5z5QmjyEM3D2YmfhfSrR7x7f49FnRwpMDnQsG35wSpVdT7EHbsm8s737m4hfnl",
+    date: "2023-03-22",
+  },
 ];
 
 const MoreNews = () => {

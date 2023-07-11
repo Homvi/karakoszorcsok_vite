@@ -1,12 +1,13 @@
 import logo from "../assets/karakocimer.svg";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
     <div className="navbar z-10  fixed bg-blend-multiply backdrop-blur-sm bg-white/50">
       <div className="flex-1">
-        <a className="btn btn-ghost normal-case text-xl" href="/">
+        <Link className="btn btn-ghost normal-case text-xl" to="/">
           <img src={logo} alt="Karakószörcsök" className="h-11" />
-        </a>
+        </Link>
       </div>
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
@@ -15,10 +16,10 @@ const Navbar = () => {
               <summary className="bg-white/80 hover:bg-white ">Menü</summary>
               <ul className="p-2">
                 <li>
-                  <a>Hírek</a>
+                  <a href="#news">Hírek</a>
                 </li>
                 <li>
-                  <a>Galéria</a>
+                  <Link to="/gallery">Galéria</Link>
                 </li>
                 <li>
                   <a>Falutörténet</a>
