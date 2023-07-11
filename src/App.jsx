@@ -1,10 +1,13 @@
-function App() {
+import Hero from "./sections/Hero";
 
+function App() {
   return (
-    <>
-      Hello Vite
-    </>
+<>
+<Hero />
+<Hero />
+</>
   )
+  
 }
 
-export default App
+export default App;
