@@ -2,7 +2,7 @@ import logo from "../assets/karakocimer.svg";
 
 const Navbar = () => {
   return (
-    <div className="navbar md:px-16 fixed bg-blend-multiply bg-white/50">
+    <div className="navbar z-10  fixed bg-blend-multiply bg-white/50">
       <div className="flex-1">
         <a className="btn btn-ghost normal-case text-xl" href="/">
           <img src={logo} alt="Karakószörcsök" className="h-11" />
@@ -12,7 +12,7 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">
           <li>
             <details>
-              <summary className="bg-white/70 hover:bg-white ">Menü</summary>
+              <summary className="bg-white/80 hover:bg-white ">Menü</summary>
               <ul className="p-2">
                 <li>
                   <a>Hírek</a>
@@ -35,8 +35,8 @@ const Navbar = () => {
               </ul>
             </details>
           </li>
-          <li className="bg-white/70 rounded-md ml-3 hover:bg-white">
-            <a className="hover:bg-white" >Kapcsolat</a>
+          <li className="bg-white/80 rounded-md ml-3 hover:bg-white">
+            <a className="hover:bg-white">Kapcsolat</a>
           </li>
         </ul>
       </div>
