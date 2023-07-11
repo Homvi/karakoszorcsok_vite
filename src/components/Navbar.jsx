@@ -16,7 +16,7 @@ const Navbar = () => {
               <summary className="bg-white/80 hover:bg-white ">Menü</summary>
               <ul className="p-2">
                 <li>
-                  <a href="#news">Hírek</a>
+                  <Link to="/">Főoldal</Link>
                 </li>
                 <li>
                   <Link to="/gallery">Galéria</Link>

@@ -57,6 +57,14 @@ const news = [
     link: "https://www.facebook.com/konyvtarkarakoszorcsok/posts/pfbid02vTL5z5QmjyEM3D2YmfhfSrR7x7f49FnRwpMDnQsG35wSpVdT7EHbsm8s737m4hfnl",
     date: "2023-03-22",
   },
+  {
+    title: "Sudri Társulat",
+    img: "https://scontent.fbcn13-1.fna.fbcdn.net/v/t39.30808-6/323056128_5167501030019265_1067535180716980564_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=r5nXxm7OYPQAX9C-59a&_nc_ht=scontent.fbcn13-1.fna&oh=00_AfCm60arVIguzKc6dfiDgecoc93HYS-OOrYRvHVqsm2qEw&oe=64B28FCF",
+    description:
+      "Nagy nap volt a Sudri Társulat életében a tegnapi, hiszen a tavalyi első és rendkívül sikeresnek bizonyult év után  megkezdtük egy új, az eddigieknél nagyobb lélegzetvételű darab próbáit. Mindannyiunk örömére sok taggal bővültünk, egyre többen várjuk hétről hétre a nagyon vidám hangulatú próbákat. Pintér Zoltán művészeti vezető, hangulatfelelős irányításával a darabbal a Társulat emléket kíván állítani Petőfi Sándor születésének 200. évfordulójára. ",
+    link: "https://www.facebook.com/konyvtarkarakoszorcsok/posts/pfbid0rxJtpYFuLCrYasiNbLQaQn9t1Ntj8omw3MC11iJSfutBQpLuiatGifUHYcmyrHRSl",
+    date: "2023-01-17",
+  },
 ];
 
 const MoreNews = () => {

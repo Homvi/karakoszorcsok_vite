@@ -21,8 +21,7 @@ const Gallery = () => {
     "https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-6/336808452_1214354605879896_915474872531334346_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=X7iatjZgEA8AX9lO8d5&_nc_ht=scontent-bcn1-1.xx&oh=00_AfDKEEAXYgtaUnrAkbmocJhEejTjhCDhnR2i-BbCUlNjGA&oe=64B28D45",
     "https://scontent.fbcn13-1.fna.fbcdn.net/v/t39.30808-6/335405890_114785264895871_3093632420056020498_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=XIl5332P6dYAX82nK32&_nc_ht=scontent.fbcn13-1.fna&oh=00_AfBPYH0kvNjTB88KRDrb91Yao4Ate3AZ-Qld3kk-FUHDQg&oe=64B1AACC",
     "https://scontent.fbcn13-1.fna.fbcdn.net/v/t39.30808-6/330391977_142608381773584_5837910458775998578_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=lGNXo7Ssa_MAX-W3xqc&_nc_ht=scontent.fbcn13-1.fna&oh=00_AfAwJ_FVXYxPkRwd8SsxrYgoyzv3TQqVCCvzNlsYYwvXXA&oe=64B1B184",
-
-
+    "https://scontent.fbcn13-1.fna.fbcdn.net/v/t39.30808-6/330392100_167140939454605_4574641712808452334_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=U0udBmR2JAEAX9AF1kA&_nc_ht=scontent.fbcn13-1.fna&oh=00_AfBaFQt-4jaHHLKLjzO1RBdS6NmL288n_69aH-YG8L_1Mg&oe=64B1F714",
   ];
 
   return (
@@ -31,7 +30,14 @@ const Gallery = () => {
       <h1 className="mt-24 mb-5 text-3xl">Galéria</h1>
       <div className="gap-3 columns-1 md:columns-2 lg:columns-3">
         {images.map((image, id) => {
-          return <img key={id} src={image} alt="" className="w-full  mb-3" />;
+          return (
+            <img
+              key={id}
+              src={image}
+              alt=""
+              className="w-full shadow-xl mb-3"
+            />
+          );
         })}
       </div>
     </div>
