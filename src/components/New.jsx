@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 const New = ({ img, description, title, link, date }) => {
   return (
     <div className="card lg:card-side bg-base-100 shadow-xl">
@@ -27,6 +29,14 @@ const New = ({ img, description, title, link, date }) => {
       </div>
     </div>
   );
+};
+
+New.propTypes = {
+  img: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  link: PropTypes.string,
+  date: PropTypes.string.isRequired,
 };
 
 export default New;
