@@ -67,11 +67,20 @@ const news = [
   },
 ];
 
+const sortByDate = (arr) => {
+  let sorted = arr.sort(function (a, b) {
+    a = a.date.split("-").join("");
+    b = b.date.split("-").join("");
+    return a < b ? 1 : a > b ? -1 : 0;
+  });
+  return sorted;
+};
+
 const MoreNews = () => {
   return (
     <div className=" min-h-screen bg-base-300 p-5">
       <div className="flex flex-col gap-5 items-center">
-        {news.map((item, id) => {
+        {sortByDate(news).map((item, id) => {
           return (
             <New
               key={id}
