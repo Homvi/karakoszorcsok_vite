@@ -6,6 +6,7 @@ const New = ({ img, description, title, link, date }) => {
       <div className="container md:w-60">
         <figure>
           <img
+            loading="lazy"
             className="float-left w-[600px] h-[250px] object-cover "
             src={img}
             alt={title}

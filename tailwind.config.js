@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-pattern": "url('/forest.jpg')",
+        "hero-pattern-desktop": "url('/forest-desktop.webp')",
+        "hero-pattern-mobile": "url('/forest-mobile.webp')",
       },
     },
   },
