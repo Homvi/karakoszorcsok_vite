@@ -62,7 +62,7 @@ const Gallery = () => {
         {uniqueImages.map((image, id) => {
           return (
             <img
-              onClick={(e) => console.log(image)}
+              onClick={() => console.log(image)}
               loading="lazy"
               key={id}
               src={image}
