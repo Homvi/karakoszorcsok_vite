@@ -51,7 +51,7 @@ const Navbar = () => {
             </details>
           </li>
           <li className="bg-white/80 rounded-md ml-3 hover:bg-white">
-            <a className="hover:bg-white">Kapcsolat</a>
+            <Link to="/contact" className="hover:bg-white">Kapcsolat</Link>
           </li>
         </ul>
       </div>
