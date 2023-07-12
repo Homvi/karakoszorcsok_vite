@@ -49,22 +49,16 @@ const Footer = () => {
       <div className=" flex flex-wrap justify-evenly gap-5">
         {/* NMI */}
         <img loading="lazy" className="h-16" src={nmi}></img>
-        {/* NMI */}
         {/* SMBleader */}
         <img loading="lazy" className="h-16" src={SMBleader}></img>
-        {/* SMBleader */}
         {/* nka */}
         <img loading="lazy" className=" h-16" src={nka}></img>
-        {/* nka */}
         {/* magyarfalu */}
         <img loading="lazy" className=" h-16" src={magyarfalu}></img>
-        {/* magyarfalu */}
         {/* ekmk */}
         <img loading="lazy" className=" h-16" src={ekmk}></img>
-        {/* ekmk */}
         {/* EEM */}
         <img loading="lazy" className=" h-16" src={eem}></img>
-        {/* EEM */}
       </div>
     </footer>
   );
