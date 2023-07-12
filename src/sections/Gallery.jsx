@@ -56,8 +56,7 @@ const Gallery = () => {
 
   return (
     <div className="min-h-screen flex flex-col justify-center items-center p-3">
-      <div className=" w-full"></div>
-      <h1 className="mt-24 mb-5 text-3xl">Galéria</h1>
+      <div className=" w-full h-[100px]"></div>
       <div className="gap-3 columns-1 md:columns-2 lg:columns-3">
         {uniqueImages.map((image, id) => {
           return (
