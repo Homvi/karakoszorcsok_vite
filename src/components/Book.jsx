@@ -124,6 +124,67 @@ const descriptions = [
       "1850-ben volt a tagosítás, ekkor minden közös földet erdőt birtokarányban felosztottak, Azóta az erdő nagy része kiirtatott. 1853.ik év május 30-án reggel a villám egy házat felgyújtott, melyről 33.lakhely és minden gazdasági épület leégett. 1855-ben a kolera erősen pusztított. 1866-ban a májusi fagy minden őszi gabonát megsemmisített. 1872 óta a nyugati vaspálya a határt átszeli, a földnek négyszögölét 26 kr. adták.",
   },
   {
+    title: "",
+    description:
+      "1876 év Január 6.-án Cuppon Imre nejével és 23 éves fiával szobájukban halva találtatott, 9 éves gyermeke pedig eszméleten kívüli állapotban volt, azonban rögtön gyógykezeltetvén, felgyógyulása után következőleg mondta el a szerencsétlen esetet. Január 5-én este este a nagy hideg miatt a szobát erősen befütötték , a család vacsora után lefeküdt aludni. Éjjel az atya anya és a nagyobbik fiú jajgatva , fejüket fájdítva felébredtek, friss levegő bebocsátása végett az ajtót felnyitották, de a hóvihar miatt hamar betették; még soká Jajgattak, reggelre halva voltak, a szobában volt a kutya, macska is elvesztek, egyedül a 9 éves fiú élt.",
+  },
+  {
+    title: "",
+    description:
+      "A járási orvos mérgezést gyanított, a bíróság két gyanus egyént. A holttestek egyházilag eltemetvén, utóbb kétszer felásták, belszerveik kivetetvén, orvosi vizsgálatra Veszprémbe küldetett, hol legszigorúbb vegyelemzés után, mérgezést nem észlelvén, a befogottak szabadon bocsátattak. Orvosi vélemény szerint a tulságos fűtés által kifejtett veszélyes gőz okozta a halált. 1877-ben június 23-án a jégeső az egész határt elverte. A jeget másnap délben is lehetett lapátolni a templom mellett.",
+  },
+  {
+    title: "Nemes családok",
+    description:
+      "1299-ik évi okmány Opur, Blásy, Zoda, Bors és Miklós nevű nemeseket említ Zurchukon. Ezen ősi nevek később mivé változtak kideríteni nem lehet. 1593-ban Chipán Hany, Mészelyi, Vaspöri családokat említetnek, ezek fiú ágon nem léteznek. Berzsenyi család. Kis Berzsenyből származik, hol 1593-ban Berzsenyi Bálint Noszlopy Dorottyát feleségül vette és ennek szörcsöki jószágára átköltözött.. Nemesi oklevele Vasmegyében élő ágnál van, kik ágostai vallásuak.",
+  },
+  {
+    title: "",
+    description:
+      "A Szörcsöki Berzsenyi családból származott Berzsenyi László pálos szerzetes, kitől a szörcsöki templom egy műfaragványú fakeresztet bír, szerzetes neve András. Csete család.Göcsejből származott fel. Utolsó ivadéka Csete László Kis- komáromi plébános volt. Született 1825-ben; gyermekkorában mint szorgalmas tanuló Tóth Ignác plébánosnak figyelmét magára vonta, s itthon a latin nyelv elemeire megtanítván Csete Antal püspöki titkár Laszkalnor Antal kanonoknak pártfogásába ajánló kiknek jótékonysága alatt, Veszprémben a gimnáziumi katolikus osztályt kitűnő sikerrel elvégezé.",
+  },
+  {
+    title: "",
+    description:
+      "Győrben ismét Tóth Ignác közvetítése folytán a bölcsézseti tanéveket folytatta. Minden tantárgyból első, kitűnő lévén, Gróf Zichy Domonkos püspökünk Csetét Rómába a Germanica — Hungaricum kollégiumba küldte 1845-ben honnan hat év múlva mint hittudor és áldozár tér vissza. Veszprémbe mint tanulmányi felügyelő és hittanár működött! 865-ig, ekkor Kis-Komáromba plébánossá neveztetett, hol 1870-ik év november 21-én meghalt. Végrendeletében összes vagyonának felét a kis- komáromi templomnak, felét pedig rokonainak hagyta. A szörcsöki templomnak mint tanár casulát, fehérneműt kézi keresztet, canon táblákat, a hitközséget templomuk.",
+  },
+  {
+    title: "",
+    description:
+      "csinosítására buzdította, nagy harangra pénzt szerzett. Tudományos terén is felmutatta, a , 'Religio' heti lapban értekezéseket közlött , 'Garibaldi és társulata' két kötetű korrajzba leírta Rómában átélt éveit,valamint a titkos képzettségét az irodalom társulatok káros, vészes működéseit.Holta után Szörcsökön elvégzendő misére 100 forint alapítványt hagyott. Édesatyja Csete János életében 150 forint misealapítványt tett, és a szörcsöki templomnak 100 ft-ot adott. Így örökítette meg magát a Csete család.",
+  },
+  {
+    title: "",
+    description:
+      "csinosítására buzdította, nagy harangra pénzt szerzett. Tudományos terén is felmutatta, a , 'Religio' heti lapban értekezéseket közlött , 'Garibaldi és társulata' két kötetű korrajzba leírta Rómában átélt éveit,valamint a titkos képzettségét az irodalom társulatok káros, vészes működéseit.Holta után Szörcsökön elvégzendő misére 100 forint alapítványt hagyott. Édesatyja Csete János életében 150 forint misealapítványt tett, és a szörcsöki templomnak 100 ft-ot adott. Így örökítette meg magát a Csete család.",
+  },
+  {
+    title: "",
+    description:
+      "Cuppon család. Sopron megyei Völcséről származik.1731-ik évi ellenállók közt ketten jelen voltak. Ezen ágból származott Cuppon Ferenc Sármelléken volt plébános. Leés család . az 1299 évi okmány szerint a királynénak fegyveres jobbágyai valának. Nemességét 1324-ben Károly -Róbert királytól nyerte. Az ármális eredetije a veszprémi káptalannál van, onnan hiteles másolatot bírja a család. Forintos család Már 1593-ban említtetik. E családnak itteni ágából két tanult egyén emelkedett ki. Forintos János Kapornokon volt esperes plébános, ismét Forintos János, Pápán ügyvéd volt. Jakab család Nagy-Berzsenyből ered hol 1561-ben Nádasdy Tamás nádortól donátiót kapott.",
+  },
+  {
+    title: "",
+    description:
+      "Kovacs család Nagy-Jenőből származik, hol a győri püspöknek szabadságolt jobbágyai valának. 1543-ik év után Nagy- Jenőben beállt pusztulási időszakot saját érdekökre jól felhasználták. Ugyanis 1592-ik évi leltár szerint Kovács Vince a győri püspökségnek kétkerekű malmát elfoglalta; féltelekre magát önhatalmilag szabadságolta; a pálosoknak Somlyón 40. kapás szőlőjét elfoglalta, semmi dézsmát fizetni nem akart.- Kovács János a győri székesegyházra 50ft adományozott, ezért és egyéb szolgálatáért 1610-ben Napragy püspöktől kapta az úgynevezett a bíró molnáját.- Fiai közül Péter Vázsonynál esett el1605-ben és holtteste hazahozatott.",
+  },
+  {
+    title: "",
+    description:
+      "Andor Nagy Jenőben hadnagy a vázsonyi ütközetnél szintén jelen volt, honnan sok török fogollyal tért haza később a farkasok falták fel. Mihály szinte Nagy Jenőben hadnagy, Győr alatt Koronconál elesett.- Kovács János1635-ben II. Ferdinánd királytól nyert nemességet . Kovács Lőrincnek Márton fia Berzsenyi Borbálát feleségül vevén, ennek birtokára Szörcsökre áttelepedett. 1640-ben II. Draskovics György püspök Kovács családot nagy —jenői összes birtokából melyeket Napragytól kapottt kivetette: ezért Pálfy Pál nádornál a püspököt bepanaszolá, és 1649-ik év január 12-én kelt ítélet folytán Draskovics 400 ft bírság fizetésére ítéltetett.",
+  },
+  {
+    title: "",
+    description:
+      "Kovácsnak pedig minden más javait a malommal együtt visszabocsájtani tartozott,de amint Nagy-Jenő történelmében láttuk a Kovács családnak az ítélet foganatosítása nem sikerült.Imre család :Sopron megye Pásztori helységből származott ide. E családnak tagja volt Imre László.Csokonyán asperes-plébános, ki a szörcsöki templom és iskolára 100 ft-ot adományozott. 1858-ban. Nagy, Kiss, Koppán, Szabó Nemes családokról mit sem tudok. Általában az evangélikus vallásuakról kevés tudomást szerezhettem, hozzáférhetetlennek mutatkoztak. kupovics, Persaics családok :Horvátországból keveredtek ide.",
+  },
+  {
+    title: "",
+    description:
+      "A Persaics család most élő tagjai felsőbb iskolákat végeztek. Kristóf jelenleg segéd szolgabíró.",
+  },
+
+  {
     title: "Folytatása következik...",
     description: "",
   },
