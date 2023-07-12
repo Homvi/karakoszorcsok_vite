@@ -19,6 +19,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/story" element={<Story />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<App />} />
       </Routes>
       <Footer />
     </BrowserRouter>
