@@ -183,9 +183,138 @@ const descriptions = [
     description:
       "A Persaics család most élő tagjai felsőbb iskolákat végeztek. Kristóf jelenleg segéd szolgabíró.",
   },
-
   {
-    title: "Folytatása következik...",
+    title: "A nép jellemzése",
+    description:
+      "E község lakói az elősorolt adatok szerint hajdan verekedésre hajlandók voltak.Képzelt vagy való dolgaikat erősen védték. A berzsenyiek irányában annyira menthetők, mert a régi okmányaikat a török hadjárat alatt elvesztvén senki sem tudta meddig terjed egyik másik határ, ezért tiltakozhattak ,pörlekedhettek ellenük. A folytonos pörlekedést fenntartja a pörös nevü dülő. Hogy mulatságkedvelők voltak, azt néhány családnak tönkrejutása bizonyítja, valamint azt is, hogy a közjövedelmet elmulatták, ",
+  },
+  {
+    title: "",
+    description:
+      "például a katolikus rész a pap és mester aratáskor a kocsma jövedelemből oly áldomást csapott, ami a hitközségnek többe került, mint amit az összes terményért kaptak, de becsületükre válik, hogy midőn 1865-ben ezt nekik számokkal bebizonyítottam, más irányba tértek, azóta a kocsmajövedelemből iskolájukra sokat áldoztak, holott előbb folytonos adósság terhelte a hitközséget. -Mily harcias szellem volt köztük, , azt nemes társaik. Katonásan öltözködött aki tehette; kalpagosan, egész katonai díszben kísérték a halottat a temetőbe, hol sírba tételkor díszlövést adva búcsúztak el a halottól, a fejkereszten fekete zászló lengett",
+  },
+  {
+    title: "",
+    description:
+      "Értelmiség tekintetében tiszta, egyenes észjárás, könnyű felfogásúak, írni, olvasni mindenki tud; ügyes szorgalmas tanítóikról is hálásan emlékeznek, hogy felsőbb iskolába is mentek, azt a családok történetéből is tudjuk. Mint érdekes adatot feljegyzem, hogy Lovász János ide való asztalos, később vasúti őr korábban gyermekei iskoláztatását valódi hősi feláldozással tette. Veszprémben Ferdinánd nevű fia a gimnázium negyedik osztályában jeles tanuló csupán a Jótevők kegyességéből tartja fenn magát; Ha sikerül iskoláit jó előmenetellel befejezni, hiszem a hozzáfűzött reményben nem csalódunk.",
+  },
+  {
+    title: "",
+    description:
+      "Sajnos, hogy az iskolázás e községben is hanyatlik, mert nyáron át őrzés miatt a gyerekek az iskolát teljesen elhanyagolják. -Az is a nép jellemzésére szolgál, mit a múltból néhány legényről emlegetnek. A helybeli luthránusok templomának még e század elején nem volt tornya, harangjuk állványon függött a templom előtt .A pajkos fiatalok a harangkötélre friss csontokat vagy húsdarabokat, melynek szagát az ebek megérezvén , felugráltak, így a harangot mozgásba hozva, a kongásra a nép sokszor megrémült. Általában földműveléssel foglalkoznak, némelyek marhakereskedést űzve messze földet bejárták.",
+  },
+  {
+    title: "",
+    description:
+      "A házak régente fából készültek, de mióta erdejüket kiirtották más anyagra szorultak. E század elején salétromfőzők jártak a helységekben, kik kormányfelhatalmazással a földes szobák talaját felásták és elhordták kifőzés végett ; a szörcsökiek, hogy ily alkalmatlanságtól jövőre magukat megmentsék, a kiásott föld helyett kavicsot hordtak, így nem akarva is szobájuk talaján segítettek.- A nép általában erőteljes, a fiatalságból sok beválik katonának. ",
+  },
+  {
+    title: "",
+    description:
+      "A népesedés 1779-ik egyházlátogatáskor 302 gyónó, 114 kiskorú, összesen 416 katólikus, 165 evangélikus. 1870-ik évi összeíráskor, házszám 75, fi 336, nő 344, összesen 680. Ezek közt katolikus 487, evangélikus 183, zsidó 10.",
+  },
+  {
+    title: "KOCSMAJOG",
+    description:
+      "Két kocsma van, egyik a katolikus, másik az evangélikus hitközségé; mindegyik fél a haszonbérletet vallása anyagi szükségleteinek födözésére használja; jövedelmet a hitközségi gondnok kezeli, és évenként számot ad. A katolikusok 1878-ban kocsmaházukat újraépítették, cseréppel födették. Az evangélikusoknak van takarék magtáruk, melyből lelkészök és mesterök fizetését adják, egyéb hitfelekezeti kiadásaikat födözik. A katolikusok is létesítettek ily magtárt, de néhány év múlva megszünt.",
+  },
+  {
+    title: "Karakó- szörcsök egyházi történelme",
+    description:
+      "Feltéve, hogy az 1299-ik évi okmány , Karakó-Szörcsökre vonatkozik, aszerint már azon időben volt e községben templom, Szt. Tamás tiszteletére, mely a helység közepén állt, melyhez a királynénak felerészben joga volt. A mostani templomot a közbirtokosok 1747-ben építtették, és talán az ösrégi romjaira, mert ez is a helység közepén áll. Hogy melléke temetőül használtatott, bizonyítják ama emberi csontok, melyek a templom körüli ásás alkalmával előkerültek.",
+  },
+  {
+    title: "",
+    description:
+      "Ez is a régi okmánynak e községre való vonatkozása mellett tanuskodik; mert az egyházi történelemből tudjuk, hogy hajdan a templom bekerített melléke, a hívek temetkezési helye. Mikor a mostani templom épült, a temetőre vonatkozó ősi szokás már megváltozott; az itten nyugvó holttestek egy régibb templom létezéséről tanuskodnak. 1794-ben a templomot nagyobbították, sekrestyét építettek. Az 1795. év július 59-én felszenteltetett; azóta a hívek gondozása közt fennáll. Az oltárkép sz.Andrást ábrázolja, állványával együtt csinos munka. Egyházi szerei és ruházata díszesek.",
+  },
+  {
+    title: "",
+    description:
+      "Csete László hittanár szép casulát, álbát, canontáblákat kézi keresztet ajándékozott; Csete Antal kanonok pompás kiállítása mifsálet adott; a mostani monstrantiát Büky Karolina, György Mihály mester neje vette 1873-ban; Szt.András , ereklyéjét Csete László hozta Rómából, tartóját Berzsenyi András szerezte; a veszprémi oltáregylet cásulát, velumot, a hitközség is négy ministerruhát és ingeket vett, a rózsafűzér társulat pedig pompás oltárterítőt készíttetett.50 ft alaptőkéjét Imre László, volt csokonyai esperes-plébános hagyományozta. A kelyhet Imre Alajos újraaranyoztatta, a mostani nagyharangot a mostani hitközség 1858-ban csináltatta.",
+  },
+  {
+    title: "Isteni szolgálat rendje",
+    description:
+      "Az 1779. évi egyházlátogatás K.Szörcsökön minden negyedik vasárnap és ünnepen isteni szolgálatot rendel; azonban a hívek Tóth Ignác plébánossal újhold vasárnapi sormisében egyeztek, mit 1864-ben az egyházmegyei hatóság megerősített. Ezenkívül karácsonykor éjféli mise, keresztjáró hét harmadik napján procefsio, május 30-án fogadalmi mise, Sz. András napján és rákövetkező vasárnap van a templom búcsúünnepe, újhold szombaton a rózsafüzér társulat miséztet.",
+  },
+  {
+    title: "Hitéleti adatok",
+    description:
+      "A hitéletnek egyik nevezetes jele itt is, hogy a született katolikus az egyháztól el nem pártolt, hanem az anyakönyvek tanusága szerint az itteni evangélikusok közül 13-an visszatértek a katolikus hitre; ezek közül a Bartakovics László fiával együtt Ismét visszament a lutheranizmusba, jele, hogy nősüléskor a Jegyese kedvéért külszínből változtatta vallását. -Vegyes házasság ritkán köttetett, de még lehetséges vala, mindig a katolicizmus előnyére. -A helyben lakó evangélikusok alkalmasint donatio útján jöttek ide, vagy a reformáció terjedésekor elpártoltak maradványai.",
+  },
+  {
+    title: "",
+    description:
+      "A hitélet virágai és gyümölcsei gyanánt megemlíthetjük, hogy a Szörcsökiek Isteni szolgálatra legbuzgóbban eljárnak, nemcsak helyben, de az anyatemplomba Is. Karácsonyra, húsvétra kevés kivétellel gyónnak; temetésre, báli időben számosan elmennek; az egyházi énektanulást itt leglelkesebben fogadták,24 tagból állott , dalárdájuk gyönyörűen énekelt 4 hangra.- A rózsafűzér társulat 1856 óta virágzik, a tagok minden hónapban miséztetnek, vasárnap és ünnep délután az olvasót nyilván imátkozzák a templomban, a templom díszítéséről gondoskodnak.",
+  },
+  {
+    title: "",
+    description:
+      "Végre a község hitbuzgalmának jelei azon pénzáldozatok, melyekkel templomukat fenntartják, és katolikus jellegű és iskolájukat megmentették.",
+  },
+  {
+    title: "Mise alapítványok, keresztek és temető",
+    description:
+      "Csete László kiszomáromi plébános végrendeletileg 100 ft. misealapítványt hagyott érette tartandó két misére. Csete János 1S5Oft. misealapítványt tett, magáért és nejéért tartandó három misére. Büki Karolina 100ft. misealapítványt tett magáért és családjáért tartandó három misére. A templom előtt régi idő óta egy fakereszt állt, melyet, 1867-ben a szél kitört, helyette a hívek adakozásából készült a mostani kőkereszt, mely 1868-ik év szeptember 14-én felszenteltett, fenntartja a hitközség.",
+  },
+  {
+    title: "",
+    description:
+      "1870-ben a Berzsenyi András és neje Hangler Anna saját tagbirtokukon állíttattak kőkeresztet, mely azon évben felszenteltetett; alapítványa 15ft. 1872-ben Sipos Pál és neje Molnár Rozália a temető avult fakeresztje helyett kőből újat készíttettek, mely ugyanaz év október 19-én lett felszentelve; fenntartását a hitközség fogadta el.A temető a régmúltban a templom körül volt, amint az ott kiásott csontok bizonyítják. Utóbb a község délkeleti házsorának kertjei alatt volt a temető; a mostanit tagosításkor mérték ki, és 1852-ben felszenteltetvén, azóta használják.",
+  },
+  {
+    title: "",
+    description:
+      "1870-ben a Berzsenyi András és neje Hangler Anna saját tagbirtokukon állíttattak kőkeresztet, mely azon évben felszenteltetett; alapítványa 15ft. 1872-ben Sipos Pál és neje Molnár Rozália a temető avult fakeresztje helyett kőből újat készíttettek, mely ugyanaz év október 19-én lett felszentelve; fenntartását a hitközség fogadta el.A temető a régmúltban a templom körül volt, amint az ott kiásott csontok bizonyítják. Utóbb a község délkeleti házsorának kertjei alatt volt a temető; a mostanit tagosításkor mérték ki, és 1852-ben felszenteltetvén, azóta használják.",
+  },
+  {
+    title: "",
+    description:
+      "A régi temető Persaics János tagbirtokába esvén, két év múlva felszántotta.-Az evangélikusok temetője, elkülönítve van külön bejárattal.",
+  },
+  {
+    title: "A plébános fizetése",
+    description:
+      "1779.évi egyházlátogatás szerint minden külön kenyéren élő házaspár fizet fél öregmérő rozsot, 25 dénárt;a hitközség tartozott a plébániaföldekből egy holdat munkálni, rét kaszálásra 5 napszámost küldeni; minden sormise alkalmából ebédváltságul 50 denár Jár. 1864-ben kötött szerződés szerint jár fél posonyi mérő rozs, 30 kr pár pénz; búcsu napján 4ft, újhold szombat és vasárnapi fuvarért 12.ft miseborért 5ft , a földmunka és a kaszás napszám megváltásáért IOft. Ezen 31 ft a hitközség pénztárából fizettetik. A stoláris fizetés az anyahellyel egyenlő.",
+  },
+  {
+    title: "Iskola és kántortanítói állomás",
+    description:
+      "Legrégibb iskolaház a templom mögött állt, melyről az1779-ikegyházlátogatás írja: tából épült, egyetlen szobahelyiség, romladozó állapotban.Ez mutatja, hogy az iskola már a régi időben is volt, tanterem a mester szobája vala. Midőn e nyomorult helység lakhatatlanná lett, a hitközségi korcsmá-ban foglaltak el egy szobát, mely iskolául két évig szolgált. 1818-ban a csordás házát újra építették s ez lett a mesterlak és iskola ,de a templomtól távol esvén, Bolla Miklós és Antal testvéreknek a templom mellett lévő házával elcserélték 1819- ben.",
+  },
+  {
+    title: "",
+    description:
+      "1850-ben a ház leégett, újrafelépítve1873-ig szolgált, de szűk belsősége a törvény szabványának meg nem felelt, a hitközség megvette 3000 ft-ért. Nagy Dántel házát, melyben a hátsó részt tanteremmé alakítatta. E tetemes pénzösszeg előteremtéséhez eladták a régi házat, ezentúl minden házaspár 8ft. fizetett, miből 2000ft kikerült, a hátralévő 1000ft. a veszprémi káptalan 10évi törlesztésre kölcsönözte.",
+  },
+  {
+    title: "",
+    description:
+      "A tanító fizetése 1779-ben, minden marhás gazdától fél mérő rozs, a marhátlanoktól negyed mérő, átlagos párpénz Sft, temetéskor24 hirdetőért 1 lés fél denár, harangozásért minden gazdától egy kenyér, tandíj minden egyes gyerektől 3lés fél dénár, tüzifa minden pár igás marha után egy szekérrel; ezenkívül 4 hold szántóföld melyet a község művelt. Jelenlegi fizetése 7 hold föld, melyből négyet a hívek munkálnak, 1-et trágyáztak, a temető fűtermése; a pár; gabona maradt a régi, tandíj és párpénz helyett a hitközség pénztárából 37ft 50 kr. és öt öl tüzifa.",
+  },
+  {
+    title: "",
+    description:
+      "A mesterek közül Jordanics Gábor híressé lett azon búcsuztatóról, melyet] 829-ben Tornán véletlenül agyonlótt Kiló Ferkó nevü cigány temetésére szerkesztett és énekelt. A cigány észjárásnak mintaszerű leírása a szerző leleményességét bizonyítja, a vidéken máig el van terjedve; mit ritkaságot én is beírtam a plébánia történelmi könyvébe. Chapó Móric,1863-71-ig. Fő tanító, fáradhatatlan éneklész, a népet nemcsak egyházi énekekre tanította, de 24 tagból álló dalárdát több műénekre Is sikeresen oktatta. György Mihály nejével együtt a templomnak monstrantiát vett 1872-ben. ",
+  },
+  {
+    title: "",
+    description:
+      "Borsódi Ferenc 1874 óta. Ágostoni hitfelekezetüek Az ágostoni hitfelekezetüeknek itt temloma és iskolája lévén, ezek történetét is feljegyzem. Bizonytalan vajon ősi lakosok-é, kik vallási reformációkor váltak el, vagy később települtek ide; annyi bizonyos, hogy 1861-ben már számosan voltak mert Perlaky nevü mesterük a kisberzsenyi ellenállók közt jelen volt, És Polyondy László kanonok agyonlövését meggátolta. Templomuk 1790 év körül épült, eleinte náddal volt födve, tornya nem volt , mostani alakját 1844-ben nyerte. A két vallású lakosok békésen élnek egymással.",
+  },
+  {
+    title: "",
+    description:
+      "Hajdan az evangélikusok a mi ünnepeinken a külső munkától tartózkodtak, viszonzásul a katolikusok nagy pénteken, mint azoknak ünnepnapján szintén nem dolgoztak. 1867-ben e szép egyetértés felbomlott, mikor sz. Péter és Pál ünnepén a lutránusok tüntetésből külső dologra mentek, mit a katolikusok gátolván, emiatt Psareka István azon időbeli főbíró a katolikusokat megbüntetendő vizsgálatot kért. A vizsgálat igen részrehajlón folyt, mi ellen a katólikusok tiltakozván, más vizsgálatokat kértek, 1868-ban az ügyet békésen kiegyenlítették. Egyházközségileg a kertai lelkészséghez tartoznak. ",
+  },
+  {
+    title: "",
+    description:
+      "Különösen jómodú gazdák; korcsmájuk és takarékmagtárjuk jövedelmét hitfelekezeti költségeik födözésére fordítják, faiskolájuk szépen tenyészik .Összesen 183-an vannak. ",
+  },
+  {
+    title: "Vége",
     description: "",
   },
 ];
