@@ -1,9 +1,9 @@
-import nmi from "../assets/support/nmi.png";
+import nmi from "../assets/support/nmi.webp";
 import eem from "../assets/support/EEM.png";
-import ekmk from "../assets/support/EKMK.png";
+import ekmk from "../assets/support/EKMK.webp";
 import magyarfalu from "../assets/support/magyarfaluprogramlogo.png";
-import nka from "../assets/support/nka.png";
-import SMBleader from "../assets/support/SMBleader.jpg";
+import nka from "../assets/support/nka.webp";
+import SMBleader from "../assets/support/SMBleader.webp";
 
 const Footer = () => {
   return (
