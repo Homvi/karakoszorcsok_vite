@@ -1,7 +1,15 @@
+import { useRef } from "react";
 import logo from "../assets/karakocimer.svg";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
+  const drawerRef = useRef();
+
+  function closeMenu() {
+    if (typeof drawerRef.current === "undefined") return;
+    drawerRef.current.click();
+  }
+
   return (
     <div className="navbar z-10  fixed bg-blend-multiply backdrop-blur-sm bg-white/50">
       <div className="flex-1">
@@ -13,18 +21,24 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">
           <li>
             <details>
-              <summary className="bg-white/80 hover:bg-white ">Menü</summary>
+              <summary ref={drawerRef} className="bg-white/80 hover:bg-white ">
+                Menü
+              </summary>
               <ul className="p-2">
                 <li>
-                  <Link to="/">Főoldal</Link>
+                  <Link onClick={closeMenu} to="/">
+                    Főoldal
+                  </Link>
                 </li>
                 <li>
-                  <Link to="/gallery">Galéria</Link>
+                  <Link onClick={closeMenu} to="/gallery">
+                    Galéria
+                  </Link>
                 </li>
-                <li>
+                <li onClick={closeMenu}>
                   <a>Falutörténet</a>
                 </li>
-                <li>
+                <li onClick={closeMenu}>
                   <a
                     href="https://www.tuskevarikozoshivatal.hu/?module=news&fname=dok-karakoszorcsok"
                     target="_blank"
