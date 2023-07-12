@@ -7,6 +7,7 @@ import { Route, Routes } from "react-router-dom";
 import { BrowserRouter } from "react-router-dom";
 import Gallery from "./sections/Gallery.jsx";
 import Footer from "./components/Footer.jsx";
+import Story from "./sections/Story.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
@@ -15,6 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/gallery" element={<Gallery />} />
+        <Route path="/story" element={<Story />} />
       </Routes>
       <Footer />
     </BrowserRouter>

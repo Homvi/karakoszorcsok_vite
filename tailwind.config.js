@@ -6,6 +6,10 @@ export default {
       backgroundImage: {
         "hero-pattern-desktop": "url('/forest-desktop.webp')",
         "hero-pattern-mobile": "url('/forest-mobile.webp')",
+        "old-paper": "url('/dirty-old-paper-texture.jpg')",
+      },
+      fontFamily: {
+        ringBearer: ["ringBearer", "sans-serif"], 
       },
     },
   },

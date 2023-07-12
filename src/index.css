@@ -3,5 +3,13 @@
 @tailwind utilities;
 
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
+}
+
+@layer base {
+  @font-face {
+    font-family: ringBearer;
+    font-weight: 300;
+    src: url(/Fonts/RingbearerMedium.ttf) format("woff");
   }
+}

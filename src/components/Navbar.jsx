@@ -36,7 +36,7 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li onClick={closeMenu}>
-                  <a>Falutörténet</a>
+                  <Link to="/story">Falutörténet</Link>
                 </li>
                 <li onClick={closeMenu}>
                   <a
