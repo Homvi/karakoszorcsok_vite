@@ -32,6 +32,7 @@ const Gallery = () => {
         {images.map((image, id) => {
           return (
             <img
+              loading="lazy"
               key={id}
               src={image}
               alt=""
