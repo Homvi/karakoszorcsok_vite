@@ -1,5 +1,5 @@
-import FreshNew from "../components/FreshNew";
-import MoreNews from "../components/MoreNews";
+import FreshNew from "./FreshNew";
+import MoreNews from "./MoreNews";
 
 const News = () => {
   return (

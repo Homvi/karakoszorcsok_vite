@@ -1,4 +1,4 @@
-import New from "./New";
+import New from "../components/New";
 
 const news = [
   {

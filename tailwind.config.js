@@ -9,7 +9,7 @@ export default {
         "old-paper": "url('/dirty-old-paper-texture.jpg')",
       },
       fontFamily: {
-        ringBearer: ["ringBearer", "sans-serif"], 
+        ringBearer: ["ringBearer", "sans-serif"],
       },
     },
   },
