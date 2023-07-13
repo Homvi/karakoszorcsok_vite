@@ -14,7 +14,7 @@ const New = ({ img, description, title, link, date }) => {
         </figure>
       </div>
       <div className="card-body">
-        <div className="text-slate-400">{date}</div>
+        <div className="text-slate-600">{date}</div>
         <h2 className="card-title">{title}</h2>
         <p>{description}</p>
 
