@@ -65,7 +65,7 @@ const Gallery = () => {
               loading="lazy"
               key={id}
               src={image}
-              alt=""
+              alt="karakószörcsök fotó"
               className="w-full shadow-xl mb-3"
             />
           );

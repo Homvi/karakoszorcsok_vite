@@ -47,17 +47,47 @@ const Footer = () => {
       </div>
       <div className=" flex flex-wrap justify-evenly gap-5">
         {/* NMI */}
-        <img loading="lazy" className="h-16" src={nmi}></img>
+        <img
+          loading="lazy"
+          alt="nemzeti művelődési intézet"
+          className="h-16"
+          src={nmi}
+        ></img>
         {/* SMBleader */}
-        <img loading="lazy" className="h-16" src={SMBleader}></img>
+        <img
+          loading="lazy"
+          alt="Leader akciócsoport"
+          className="h-16"
+          src={SMBleader}
+        ></img>
         {/* nka */}
-        <img loading="lazy" className=" h-16" src={nka}></img>
+        <img
+          loading="lazy"
+          alt="Nemzeti kultúrális alap"
+          className=" h-16"
+          src={nka}
+        ></img>
         {/* magyarfalu */}
-        <img loading="lazy" className=" h-16" src={magyarfalu}></img>
+        <img
+          loading="lazy"
+          alt="Magyar falu program"
+          className=" h-16"
+          src={magyarfalu}
+        ></img>
         {/* ekmk */}
-        <img loading="lazy" className=" h-16" src={ekmk}></img>
+        <img
+          loading="lazy"
+          alt="Eötvös Károly Megyei Könyvtár"
+          className=" h-16"
+          src={ekmk}
+        ></img>
         {/* EEM */}
-        <img loading="lazy" className=" h-16" src={eem}></img>
+        <img
+          loading="lazy"
+          alt="emberi erőforrások minisztériuma"
+          className=" h-16"
+          src={eem}
+        ></img>
       </div>
     </footer>
   );

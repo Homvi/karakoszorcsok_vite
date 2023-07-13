@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className="navbar z-10  fixed bg-blend-multiply backdrop-blur-sm bg-white/50">
       <div className="flex-1">
         <Link className="btn btn-ghost normal-case text-xl" to="/">
-          <img src={logo} alt="Karakószörcsök" className="h-11" />
+          <img src={logo} alt="Karakószörcsök logo" className="h-11" />
         </Link>
       </div>
       <div className="flex-none">

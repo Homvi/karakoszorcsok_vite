@@ -13,6 +13,7 @@ const FreshNew = () => {
     <div id="news" className="hero min-h-screen bg-base-200">
       <div className="hero-content flex-col lg:flex-row">
         <img
+        alt={freshNew.title}
           src={freshNew.img}
           className="max-w-screen  rounded-lg shadow-2xl"
         />
