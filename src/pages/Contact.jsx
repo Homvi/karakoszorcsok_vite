@@ -1,7 +1,9 @@
 const Contact = () => {
   return (
-    <div className="min-h-screen pt-16">
-      <h1 className="font-semibold text-xl my-10">Kapcsolat</h1>
+    <div className="min-h-screen pt-16 relative">
+      <h1 className="font-semibold text-center  text-xl my-10">
+        Kapcsolat
+      </h1>
       <div className="flex justify-center my-5">
         8491 Karakószörcsök, Kossuth u. 1.
       </div>
