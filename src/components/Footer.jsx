@@ -12,6 +12,7 @@ const Footer = () => {
         <p>Copyright Adakin © 2023 - All right reserved</p>
         <div className="flex">
           <a
+            aria-label="Visit our youtube page"
             className="m-3"
             href="https://www.youtube.com/@karakoszorcsok8001"
             target="_blank"
@@ -28,6 +29,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
+            aria-label="Visit our facebook page"
             className="m-3"
             href="https://www.facebook.com/konyvtarkarakoszorcsok"
             target="_blank"
