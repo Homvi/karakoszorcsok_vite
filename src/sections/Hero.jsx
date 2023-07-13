@@ -19,14 +19,14 @@ const Hero = () => {
         <div className="w-full">
           <h1
             data-aos="fade-left"
-            data-aos-duration="400"
+            data-aos-duration="800"
             className="text-4xl text-white font-bold"
           >
             Isten hozta önöket!
           </h1>
           <p
             data-aos="fade-left"
-            data-aos-duration="400"
+            data-aos-duration="800"
             data-aos-delay="200"
             className="py-6 text-white max-w-xl "
           >
@@ -37,7 +37,7 @@ const Hero = () => {
           </p>
           <div
             data-aos="fade-left"
-            data-aos-duration="400"
+            data-aos-duration="800"
             data-aos-delay="400"
           >
             <a href="#news">
