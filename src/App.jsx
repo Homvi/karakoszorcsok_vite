@@ -4,10 +4,8 @@ import News from "./sections/News";
 function App() {
   return (
     <>
-      
       <Hero />
       <News />
-     
     </>
   );
 }
