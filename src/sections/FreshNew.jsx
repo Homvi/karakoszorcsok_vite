@@ -18,7 +18,7 @@ const FreshNew = () => {
           className="max-w-screen  rounded-lg shadow-2xl"
         />
         <div>
-            <div className="text-slate-400">{freshNew.date}</div>
+            <div className="text-slate-600">{freshNew.date}</div>
           <h1 className="text-5xl font-bold">{freshNew.title}</h1>
           <p className="py-6 prose prose-stone  ">
             {freshNew.quote && (
