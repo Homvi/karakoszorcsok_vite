@@ -1,11 +1,19 @@
-import Hero from "./sections/Hero";
-import News from "./sections/News";
+import { Route, Routes } from "react-router-dom";
+import Gallery from "./pages/Gallery";
+import Story from "./pages/Story";
+import Contact from "./pages/Contact";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
-      <Hero />
-      <News />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/gallery" element={<Gallery />} />
+        <Route path="/story" element={<Story />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<Home />} />
+      </Routes>
     </>
   );
 }
