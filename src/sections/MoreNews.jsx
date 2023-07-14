@@ -68,13 +68,14 @@ const news = [
 ];
 
 const sortByDate = (arr) => {
-  let sorted = arr.sort(function (a, b) {
+  let sorted = arr.slice().sort(function (a, b) {
     a = a.date.split("-").join("");
     b = b.date.split("-").join("");
     return a < b ? 1 : a > b ? -1 : 0;
   });
   return sorted;
 };
+
 
 const MoreNews = () => {
   return (
