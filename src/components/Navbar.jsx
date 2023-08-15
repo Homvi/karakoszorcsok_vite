@@ -47,11 +47,16 @@ const Navbar = () => {
                     Dokumentumtár
                   </a>
                 </li>
+                <li onClick={closeMenu}>
+                  <Link to="/docs">Közműv. dokumentumok</Link>
+                </li>
               </ul>
             </details>
           </li>
-          <li className="bg-white/80 rounded-md ml-3 hover:bg-white">
-            <Link to="/contact" className="hover:bg-white">Kapcsolat</Link>
+          <li onClick={closeMenu} className="bg-white/80 rounded-md ml-3 hover:bg-white">
+            <Link to="/contact" className="hover:bg-white">
+              Kapcsolat
+            </Link>
           </li>
         </ul>
       </div>
