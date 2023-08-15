@@ -26,6 +26,58 @@ const Docs = () => {
                   </a>{" "}
                 </td>
               </tr>
+
+              <tr className="border-b hover:bg-gray-50">
+                <td className="p-4">Beszámoló</td>
+                <td className="p-4">
+                  <a
+                    className="underline"
+                    href="/assets/documents/Beszámoló.pdf"
+                    download="Beszámoló"
+                  >
+                    letöltés
+                  </a>{" "}
+                </td>
+              </tr>
+
+              <tr className="border-b hover:bg-gray-50">
+                <td className="p-4">Házirend</td>
+                <td className="p-4">
+                  <a
+                    className="underline"
+                    href="/assets/documents/Házirend_aláírt.pdf"
+                    download="Házirend_aláírt"
+                  >
+                    letöltés
+                  </a>{" "}
+                </td>
+              </tr>
+
+              <tr className="border-b hover:bg-gray-50">
+                <td className="p-4">Szolgálati terv 2023</td>
+                <td className="p-4">
+                  <a
+                    className="underline"
+                    href="/assets/documents/Szolg_terv2023határozatszámos.pdf"
+                    download="Szolg_terv2023határozatszámos"
+                  >
+                    letöltés
+                  </a>{" "}
+                </td>
+              </tr>
+
+              <tr className="border-b hover:bg-gray-50">
+                <td className="p-4">Szolgálati terv 2022</td>
+                <td className="p-4">
+                  <a
+                    className="underline"
+                    href="/assets/documents/Szolg22határozatszámos.pdf"
+                    download="Szolg22határozatszámos"
+                  >
+                    letöltés
+                  </a>{" "}
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
