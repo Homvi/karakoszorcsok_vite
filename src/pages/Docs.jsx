@@ -15,7 +15,7 @@ const Docs = () => {
             </thead>
             <tbody>
               <tr className="border-b hover:bg-gray-50">
-                <td className="p-4">Meghívók_plakátok_2022</td>
+                <td className="p-4">Meghívók, plakátok 2022</td>
                 <td className="p-4">
                   <a
                     className="underline"
